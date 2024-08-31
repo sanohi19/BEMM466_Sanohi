@@ -1,0 +1,18 @@
+Round,Country,City,Circuit Name,GP Name,Race Date,First GP,Number of Laps,Circuit Length(km),Race Distance(km),Lap Record,Record Owner,Record Year,Turns,DRS Zones
+1,Austria,Spielberg,Red Bull Ring,Rolex Grosser Preis Von Österreich,05/07/2020,1970,71,4.318,306.452,01:05.6,Carlos Sainz,2020,10,3
+2,Styria,Spielberg,Red Bull Ring,Pirelli Grosser Preis Der Steiermark,12/07/2020,1970,71,4.318,306.452,01:05.6,Carlos Sainz,2020,10,3
+3,Hungary,Budapest,Hungaroring,Aramco Magyar Nagydíj,19/07/2020,1986,70,4.381,306.63,01:17.1,Max Verstappen,2019,14,2
+4,Great Britain,Silverstone,Silverstone Circuit,Pirelli British GP,02/08/2020,1950,52,5.891,306.198,01:27.1,Max Verstappen,2020,18,2
+5,70th Anniversary,Silverstone,Sliverstone Circuit,Emirates 70th Anniversary GP,09/08/2020,1950,52,5.891,306.198,01:27.1,Max Verstappen,2020,18,2
+6,Spain,Catalunya,Circuit de Barcelona-Catalunya,Spain,16/08/2020,1991,66,4.655,307.104,01:18.2,Valtteri Bottas,2020,16,2
+7,Belgium,Spa-Francorchamps,Circuit de Spa-Francorchamps,Belgium,30/08/2020,1950,44,7.004,308.052,01:46.3,Valtteri Bottas,2018,19,2
+8,Italy,Monza,Autodromo Nazionale Monza,Italy,06/09/2020,1950,53,5.793,306.72,01:21.0,Rubens Barrichello,2004,11,2
+9,Tuscany,Tuscany,Mugello,Tuscany,13/09/2020,2020,59,5.245,309.497,01:18.8,Lewis Hamilton,2020,15,1
+10,Russia,Sochi,Sochi Autodrom,Russia,27/09/2020,2014,53,5.848,309.745,01:35.8,Lewis Hamilton,2019,18,2
+11,Germany,Nurburg,Nurburgring,Eifel,11/10/2020,1951,60,5.148,308.617,01:28.1,Max Verstappen,2020,15,2
+12,Portugal,Portimao,Autodromo Internacional do Algarve,Portugal,25/10/2020,2020,66,4.653,306.826,01:18.8,Lewis Hamilton,2020,15,1
+13,Emilia Romagna,Imola,Autodromo Enzo e Dino Ferrari,Emilia Romagna,01/11/2020,1980,63,4.909,309.049,01:15.5,Lewis Hamilton,2020,19,1
+14,Turkey,Istanbul,Intercity Istanbul Park,Turkey,15/11/2020,2005,58,5.338,309.396,01:24.8,Juan Pablo Montoya,2005,14,2
+15,Bahrain,Sakhir,Bahrain International Circuit,Bahrain,29/11/2020,2004,57,5.412,308.238,01:31.4,Pedro de la Rosa,2005,15,3
+16,Sakhir,Sakhir,Bahrain International Circuit - Outer Track,Sakhir,06/12/2020,2020,87,3.543,307.995,00:55.4,George Russell,2020,11,2
+17,Abu Dhabi,Yas Island,Yas Marina Circuit,Abu Dhabi,13/12/2020,2009,55,5.554,305.355,01:39.3,Lewis Hamilton,2019,21,2
