@@ -1,0 +1,22 @@
+Round,Country,City,Circuit Name,GP Name,Race Date,First GP,Number of Laps,Circuit Length(km),Race Distance(km),Lap Record,Record Owner,Record Year,Turns,DRS Zones
+1,Australia,Melbourne,Melbourne Grand Prix Circuit,Rolex Australian GP,17/03/2019,1996,58,5.303,307.574,01:24.1,Michael Schumacher,2004,16,2
+2,Bahrain,Sakhir,Bahrain International Circuit,Gulf Air Bahrain GP,31/03/2019,2004,57,5.412,308.238,01:31.4,Pedro de la Rosa,2005,15,3
+3,China,Shanghai,Shanghai International Circuit,Heineken Chinese GP,14/04/2019,2004,56,5.451,305.066,01:32.2,Michael Schumacher,2004,16,2
+4,Azerbaijan,Baku,Baku City Circuit,Socar Azerbaijan GP,28/04/2019,2016,51,6.003,306.049,01:43.0,Charles Leclerc,2019,20,2
+5,Spain,Catalunya,Circuit de Barcelona-Catalunya,Emirates Gran Premio De Espana,12/05/2019,1991,66,4.655,307.104,01:18.2,Valtteri Bottas,2020,16,2
+6,Monaco,Monte Carlo,Circuit de Monaco,Grand Prix De Monaco,26/05/2019,1950,78,3.337,260.286,01:12.9,Lewis Hamilton,2021,19,1
+7,Canada,Montral,Circuit Gilles-Villeneuve,Pirelli Grand Prix Du Canada,09/06/2019,1978,70,4.361,305.27,01:13.1,Valtteri Bottas,2019,14,2
+8,France,Le Castellet,Circuit Paul Ricard,Pirelli Grand Prix De France,23/06/2019,1971,53,5.842,309.69,01:32.7,Sebastian Vettel,2019,15,2
+9,Austria,Spielberg,Red Bull Ring,Myworld Grosser Preis Von Österreich,30/06/2019,1970,71,4.318,306.452,01:05.6,Carlos Sainz,2020,10,3
+10,Great Britain,Siverstone,Silverstone Circuit,Rolex British GP,28/07/2019,1950,52,5.891,306.198,01:27.1,Max Verstappen,2020,18,2
+11,Germany,Hockenheim,Hockenheimring,Mercedes-Benz Grosser Preis Von Deutschland,15/07/2019,1970,67,4.574,306.458,01:13.8,Kimi Rikknen,2004,17,2
+12,Hungary,Budapest,Hungaroring,Rolex Magyar Nagydíj,04/08/2019,1986,70,4.381,306.63,01:16.6,Lewis Hamilton,2020,14,1
+13,Belgium,Spa-Francorchamps,Circuit de Spa-Francorchamps,Johnnie Walker Belgian GP,01/09/2019,1950,44,7.004,308.052,01:46.3,Valtteri Bottas,2018,19,2
+14,Italy,Monza,Autodromo Nazionale Monza,Gran Premio Heineken D'Itali,08/09/2019,1950,53,5.793,306.72,01:21.0,Rubens Barrichello,2004,11,2
+15,Singapore,Singapore,Marina Bay Street Circuit,Singapore Airlines Singapore GP,22/09/2019,2008,61,5.063,308.706,01:41.9,Kevin Magnussen,2018,23,3
+16,Russia,Sochi,Sochi Autodrom,VTB Russian GP,29/09/2019,2014,53,5.848,309.745,01:35.8,Lewis Hamilton,2019,18,2
+17,Japan,Suzuka,Suzuka International Racing Course,Japanese GP,13/10/2019,1987,53,5.807,307.471,01:31.0,Lewis Hamilton,2019,18,1
+18,Mexico,Mexico City,Autdromo Hermanos Rodrguez,Gran Premio De México,27/10/2019,1963,71,4.304,305.354,01:17.8,Valtteri Bottas,2021,17,2
+19,United States,Austin,Circuit of The Americas,Emirates United States GP,03/11/2019,2012,56,5.513,308.405,01:36.2,Charles Leclerc,2019,20,2
+20,Brazil,Sao Paulo,Autdromo Jos Carlos Pace,Heineken Grande Prêmio Do Brasil,17/11/2019,1973,71,4.309,305.909,01:10.5,Valtteri Bottas,2018,15,2
+21,Abu Dhabi,Yas Island,Yas Marina Circuit,Etihad Airways Abu Dhabi GP,01/12/2019,2009,55,5.554,305.355,01:39.3,Lewis Hamilton,2019,16,2

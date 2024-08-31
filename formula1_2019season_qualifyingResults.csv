@@ -1,0 +1,419 @@
+Track,Position,No,Driver,Team,Q1,Q2,Q3,Laps
+Australia,1,44,Lewis Hamilton,Mercedes,01:22.0,01:21.0,01:20.5,18
+Australia,2,77,Valtteri Bottas,Mercedes,01:22.4,01:21.2,01:20.6,19
+Australia,3,5,Sebastian Vettel,Ferrari,01:22.9,01:21.9,01:21.2,16
+Australia,4,33,Max Verstappen,Red Bull Racing Honda,01:22.9,01:21.7,01:21.3,17
+Australia,5,16,Charles Leclerc,Ferrari,01:22.0,01:21.7,01:21.4,17
+Australia,6,8,Romain Grosjean,Haas Ferrari,01:23.0,01:21.9,01:21.8,17
+Australia,7,20,Kevin Magnussen,Haas Ferrari,01:22.5,01:22.2,01:22.1,18
+Australia,8,4,Lando Norris,McLaren Renault,01:22.7,01:22.4,01:22.3,21
+Australia,9,7,Kimi R格kk嗜en,Alfa Romeo Racing Ferrari,01:23.0,01:22.3,01:22.3,17
+Australia,10,11,Sergio Perez,Racing Point BWT Mercedes,01:22.9,01:22.5,01:22.8,15
+Australia,11,27,Nico Hulkenberg,Renault,01:22.5,01:22.6,,10
+Australia,12,3,Daniel Ricciardo,Renault,01:22.9,01:22.6,,12
+Australia,13,23,Alexander Albon,Scuderia Toro Rosso Honda,01:22.8,01:22.6,,14
+Australia,14,99,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,01:22.4,01:22.7,,14
+Australia,15,26,Daniil Kvyat,Scuderia Toro Rosso Honda,01:22.5,01:22.8,,13
+Australia,16,18,Lance Stroll,Racing Point BWT Mercedes,01:23.0,,,6
+Australia,17,10,Pierre Gasly,Red Bull Racing Honda,01:23.0,,,6
+Australia,18,55,Carlos Sainz,McLaren Renault,01:23.1,,,6
+Australia,19,63,George Russell,Williams Mercedes,01:24.4,,,9
+Australia,20,88,Robert Kubica,Williams Mercedes,01:26.1,,,8
+Bahrain,1,16,Charles Leclerc,Ferrari,01:28.5,01:28.0,01:27.9,14
+Bahrain,2,5,Sebastian Vettel,Ferrari,01:28.7,01:28.4,01:28.2,14
+Bahrain,3,44,Lewis Hamilton,Mercedes,01:29.3,01:28.6,01:28.2,16
+Bahrain,4,77,Valtteri Bottas,Mercedes,01:29.5,01:28.8,01:28.3,15
+Bahrain,5,33,Max Verstappen,Red Bull Racing Honda,01:29.6,01:29.1,01:28.8,12
+Bahrain,6,20,Kevin Magnussen,Haas Ferrari,01:29.5,01:29.0,01:28.8,15
+Bahrain,7,55,Carlos Sainz,McLaren Renault,01:29.5,01:29.1,01:28.8,17
+Bahrain,8,8,Romain Grosjean,Haas Ferrari,01:29.7,01:29.2,01:29.0,17
+Bahrain,9,7,Kimi R格kk嗜en,Alfa Romeo Racing Ferrari,01:30.0,01:29.5,01:29.0,18
+Bahrain,10,4,Lando Norris,McLaren Renault,01:29.4,01:29.3,01:29.0,18
+Bahrain,11,3,Daniel Ricciardo,Renault,01:29.9,01:29.5,,12
+Bahrain,12,23,Alexander Albon,Scuderia Toro Rosso Honda,01:29.5,01:29.5,,15
+Bahrain,13,10,Pierre Gasly,Red Bull Racing Honda,01:29.9,01:29.5,,12
+Bahrain,14,11,Sergio Perez,Racing Point BWT Mercedes,01:29.9,01:29.8,,12
+Bahrain,15,26,Daniil Kvyat,Scuderia Toro Rosso Honda,01:29.9,01:29.9,,10
+Bahrain,16,99,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,01:30.0,,,6
+Bahrain,17,27,Nico Hulkenberg,Renault,01:30.0,,,6
+Bahrain,18,18,Lance Stroll,Racing Point BWT Mercedes,01:30.2,,,6
+Bahrain,19,63,George Russell,Williams Mercedes,01:31.8,,,8
+Bahrain,20,88,Robert Kubica,Williams Mercedes,01:31.8,,,8
+China,1,77,Valtteri Bottas,Mercedes,01:32.7,01:31.7,01:31.5,16
+China,2,44,Lewis Hamilton,Mercedes,01:33.1,01:31.6,01:31.6,16
+China,3,5,Sebastian Vettel,Ferrari,01:33.6,01:32.2,01:31.8,17
+China,4,16,Charles Leclerc,Ferrari,01:32.7,01:32.3,01:31.9,16
+China,5,33,Max Verstappen,Red Bull Racing Honda,01:33.3,01:32.4,01:32.1,14
+China,6,10,Pierre Gasly,Red Bull Racing Honda,01:33.9,01:32.9,01:32.9,14
+China,7,3,Daniel Ricciardo,Renault,01:33.7,01:33.2,01:33.0,18
+China,8,27,Nico Hulkenberg,Renault,01:33.6,01:33.0,01:33.0,15
+China,9,20,Kevin Magnussen,Haas Ferrari,01:34.0,01:33.2,DNF,16
+China,10,8,Romain Grosjean,Haas Ferrari,01:33.8,01:33.2,DNF,15
+China,11,26,Daniil Kvyat,Scuderia Toro Rosso Honda,01:33.8,01:33.2,,12
+China,12,11,Sergio Perez,Racing Point BWT Mercedes,01:34.0,01:33.3,,12
+China,13,7,Kimi R格kk嗜en,Alfa Romeo Racing Ferrari,01:34.1,01:33.4,,12
+China,14,55,Carlos Sainz,McLaren Renault,01:33.7,01:33.5,,12
+China,15,4,Lando Norris,McLaren Renault,01:34.1,01:34.0,,12
+China,16,18,Lance Stroll,Racing Point BWT Mercedes,01:34.3,,,6
+China,17,63,George Russell,Williams Mercedes,01:35.3,,,9
+China,18,88,Robert Kubica,Williams Mercedes,01:35.3,,,9
+China,NC,99,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,DNF,,,2
+Azerbaijan,1,77,Valtteri Bottas,Mercedes,01:42.0,01:41.5,01:40.5,20
+Azerbaijan,2,44,Lewis Hamilton,Mercedes,01:41.6,01:41.6,01:40.6,21
+Azerbaijan,3,5,Sebastian Vettel,Ferrari,01:42.0,01:41.9,01:40.8,23
+Azerbaijan,4,33,Max Verstappen,Red Bull Racing Honda,01:41.7,01:41.4,01:41.1,15
+Azerbaijan,5,11,Sergio Perez,Racing Point BWT Mercedes,01:42.2,01:41.9,01:41.6,17
+Azerbaijan,6,26,Daniil Kvyat,Scuderia Toro Rosso Honda,01:42.3,01:42.2,01:41.7,23
+Azerbaijan,7,4,Lando Norris,McLaren Renault,01:42.4,01:42.1,01:41.9,23
+Azerbaijan,8,99,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,01:42.1,01:42.4,01:42.4,21
+Azerbaijan,NC,7,Kimi R格kk嗜en,Alfa Romeo Racing Ferrari,01:42.1,01:42.1,01:43.1,21
+Azerbaijan,9,16,Charles Leclerc,Ferrari,01:41.4,01:42.0,,11
+Azerbaijan,10,55,Carlos Sainz,McLaren Renault,01:41.9,01:42.4,,17
+Azerbaijan,11,3,Daniel Ricciardo,Renault,01:42.5,01:42.5,,15
+Azerbaijan,12,23,Alexander Albon,Scuderia Toro Rosso Honda,01:42.2,01:42.5,,18
+Azerbaijan,13,20,Kevin Magnussen,Haas Ferrari,01:42.4,01:42.7,,16
+Azerbaijan,NC,10,Pierre Gasly,Red Bull Racing Honda,01:41.3,,,5
+Azerbaijan,14,18,Lance Stroll,Racing Point BWT Mercedes,01:42.6,,,8
+Azerbaijan,15,8,Romain Grosjean,Haas Ferrari,01:43.4,,,10
+Azerbaijan,16,27,Nico Hulkenberg,Renault,01:43.4,,,8
+Azerbaijan,17,63,George Russell,Williams Mercedes,01:45.1,,,9
+Spain,1,77,Valtteri Bottas,Mercedes,01:42.0,01:41.5,01:40.5,20
+Spain,2,44,Lewis Hamilton,Mercedes,01:41.6,01:41.6,01:40.6,21
+Spain,3,5,Sebastian Vettel,Ferrari,01:42.0,01:41.9,01:40.8,23
+Spain,4,33,Max Verstappen,Red Bull Racing Honda,01:41.7,01:41.4,01:41.1,15
+Spain,5,11,Sergio Perez,Racing Point BWT Mercedes,01:42.2,01:41.9,01:41.6,17
+Spain,6,26,Daniil Kvyat,Scuderia Toro Rosso Honda,01:42.3,01:42.2,01:41.7,23
+Spain,7,4,Lando Norris,McLaren Renault,01:42.4,01:42.1,01:41.9,23
+Spain,8,99,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,01:42.1,01:42.4,01:42.4,21
+Spain,NC,7,Kimi R格kk嗜en,Alfa Romeo Racing Ferrari,01:42.1,01:42.1,01:43.1,21
+Spain,9,16,Charles Leclerc,Ferrari,01:41.4,01:42.0,,11
+Spain,10,55,Carlos Sainz,McLaren Renault,01:41.9,01:42.4,,17
+Spain,11,3,Daniel Ricciardo,Renault,01:42.5,01:42.5,,15
+Spain,12,23,Alexander Albon,Scuderia Toro Rosso Honda,01:42.2,01:42.5,,18
+Spain,13,20,Kevin Magnussen,Haas Ferrari,01:42.4,01:42.7,,16
+Spain,NC,10,Pierre Gasly,Red Bull Racing Honda,01:41.3,,,5
+Spain,14,18,Lance Stroll,Racing Point BWT Mercedes,01:42.6,,,8
+Spain,15,8,Romain Grosjean,Haas Ferrari,01:43.4,,,10
+Spain,16,27,Nico Hulkenberg,Renault,01:43.4,,,8
+Spain,17,63,George Russell,Williams Mercedes,01:45.1,,,9
+Spain,18,88,Robert Kubica,Williams Mercedes,01:45.5,,,8
+Monaco,1,44,Lewis Hamilton,Mercedes,01:11.5,01:10.8,01:10.2,28
+Monaco,2,77,Valtteri Bottas,Mercedes,01:11.6,01:10.7,01:10.3,27
+Monaco,3,33,Max Verstappen,Red Bull Racing Honda,01:11.6,01:10.6,01:10.6,19
+Monaco,4,5,Sebastian Vettel,Ferrari,01:11.4,01:11.2,01:10.9,27
+Monaco,5,10,Pierre Gasly,Red Bull Racing Honda,01:11.7,01:11.5,01:11.0,24
+Monaco,6,20,Kevin Magnussen,Haas Ferrari,01:11.9,01:11.4,01:11.1,24
+Monaco,7,3,Daniel Ricciardo,Renault,01:11.8,01:11.5,01:11.2,25
+Monaco,8,26,Daniil Kvyat,Scuderia Toro Rosso Honda,01:11.6,01:11.4,01:11.3,30
+Monaco,9,55,Carlos Sainz,McLaren Renault,01:11.9,01:11.6,01:11.4,30
+Monaco,10,23,Alexander Albon,Scuderia Toro Rosso Honda,01:12.0,01:11.4,01:11.7,31
+Monaco,11,27,Nico Hulkenberg,Renault,01:12.1,01:11.7,,20
+Monaco,12,4,Lando Norris,McLaren Renault,01:11.8,01:11.7,,22
+Monaco,13,8,Romain Grosjean,Haas Ferrari,01:11.8,01:12.0,,21
+Monaco,14,7,Kimi R格kk嗜en,Alfa Romeo Racing Ferrari,01:12.0,01:12.1,,21
+Monaco,15,99,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,01:12.0,01:12.2,,22
+Monaco,16,16,Charles Leclerc,Ferrari,01:12.1,,,8
+Monaco,17,11,Sergio Perez,Racing Point BWT Mercedes,01:12.2,,,11
+Monaco,18,18,Lance Stroll,Racing Point BWT Mercedes,01:12.8,,,11
+Monaco,19,63,George Russell,Williams Mercedes,01:13.5,,,13
+Monaco,20,88,Robert Kubica,Williams Mercedes,01:13.8,,,13
+Canada,1,5,Sebastian Vettel,Ferrari,01:11.2,01:11.1,01:10.2,23
+Canada,2,44,Lewis Hamilton,Mercedes,01:11.5,01:11.0,01:10.4,22
+Canada,3,16,Charles Leclerc,Ferrari,01:11.2,01:11.2,01:10.9,23
+Canada,4,3,Daniel Ricciardo,Renault,01:11.8,01:11.5,01:11.1,20
+Canada,5,10,Pierre Gasly,Red Bull Racing Honda,01:12.0,01:11.2,01:11.1,17
+Canada,6,77,Valtteri Bottas,Mercedes,01:11.2,01:11.1,01:11.1,19
+Canada,7,27,Nico Hulkenberg,Renault,01:11.7,01:11.6,01:11.3,21
+Canada,8,4,Lando Norris,McLaren Renault,01:11.8,01:11.7,01:11.9,20
+Canada,9,55,Carlos Sainz,McLaren Renault,01:11.8,01:11.6,01:14.0,19
+Canada,10,20,Kevin Magnussen,Haas Ferrari,01:12.1,01:11.8,,15
+Canada,11,33,Max Verstappen,Red Bull Racing Honda,01:11.6,01:11.8,,12
+Canada,12,26,Daniil Kvyat,Scuderia Toro Rosso Honda,01:12.0,01:11.9,,17
+Canada,13,99,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,01:12.1,01:12.1,,16
+Canada,14,23,Alexander Albon,Scuderia Toro Rosso Honda,01:12.0,01:12.2,,16
+Canada,15,8,Romain Grosjean,Haas Ferrari,01:12.1,DNF,,15
+Canada,16,11,Sergio Perez,Racing Point BWT Mercedes,01:12.2,,,6
+Canada,17,7,Kimi R格kk嗜en,Alfa Romeo Racing Ferrari,01:12.2,,,10
+Canada,18,18,Lance Stroll,Racing Point BWT Mercedes,01:12.3,,,9
+Canada,19,63,George Russell,Williams Mercedes,01:13.6,,,10
+Canada,20,88,Robert Kubica,Williams Mercedes,01:14.4,,,10
+France,1,44,Lewis Hamilton,Mercedes,01:30.6,01:29.5,01:28.3,20
+France,2,77,Valtteri Bottas,Mercedes,01:30.6,01:29.4,01:28.6,19
+France,3,16,Charles Leclerc,Ferrari,01:30.6,01:29.7,01:29.0,19
+France,4,33,Max Verstappen,Red Bull Racing Honda,01:31.3,01:30.1,01:29.4,19
+France,5,4,Lando Norris,McLaren Renault,01:31.0,01:30.0,01:29.4,21
+France,6,55,Carlos Sainz,McLaren Renault,01:31.1,01:30.3,01:29.5,21
+France,7,5,Sebastian Vettel,Ferrari,01:31.1,01:29.5,01:29.8,19
+France,8,3,Daniel Ricciardo,Renault,01:31.0,01:30.4,01:29.9,20
+France,9,10,Pierre Gasly,Red Bull Racing Honda,01:31.2,01:30.4,01:30.2,19
+France,10,99,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,01:31.2,01:30.4,01:33.4,17
+France,11,23,Alexander Albon,Scuderia Toro Rosso Honda,01:31.4,01:30.5,,14
+France,12,7,Kimi R格kk嗜en,Alfa Romeo Racing Ferrari,01:31.0,01:30.5,,14
+France,13,27,Nico Hulkenberg,Renault,01:30.9,01:30.5,,15
+France,14,11,Sergio Perez,Racing Point BWT Mercedes,01:31.0,01:30.7,,15
+France,15,20,Kevin Magnussen,Haas Ferrari,01:31.2,01:31.4,,17
+France,16,26,Daniil Kvyat,Scuderia Toro Rosso Honda,01:31.6,,,6
+France,17,8,Romain Grosjean,Haas Ferrari,01:31.6,,,9
+France,18,18,Lance Stroll,Racing Point BWT Mercedes,01:31.7,,,9
+France,19,63,George Russell,Williams Mercedes,01:32.8,,,8
+France,20,88,Robert Kubica,Williams Mercedes,01:33.2,,,8
+Austria,1,16,Charles Leclerc,Ferrari,01:04.1,01:03.4,01:03.0,19
+Austria,2,44,Lewis Hamilton,Mercedes,01:03.8,01:03.8,01:03.3,27
+Austria,3,33,Max Verstappen,Red Bull Racing Honda,01:03.8,01:03.8,01:03.4,18
+Austria,4,77,Valtteri Bottas,Mercedes,01:04.1,01:03.9,01:03.5,25
+Austria,5,20,Kevin Magnussen,Haas Ferrari,01:04.8,01:04.5,01:04.1,20
+Austria,6,4,Lando Norris,McLaren Renault,01:04.4,01:04.2,01:04.1,19
+Austria,7,7,Kimi R格kk嗜en,Alfa Romeo Racing Ferrari,01:04.6,01:04.1,01:04.2,23
+Austria,8,99,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,01:04.4,01:04.2,01:04.2,22
+Austria,9,10,Pierre Gasly,Red Bull Racing Honda,01:04.4,01:04.0,01:04.2,18
+Austria,10,5,Sebastian Vettel,Ferrari,01:04.3,01:03.7,,9
+Austria,11,8,Romain Grosjean,Haas Ferrari,01:04.6,01:04.5,,18
+Austria,12,27,Nico Hulkenberg,Renault,01:04.7,01:04.5,,12
+Austria,13,23,Alexander Albon,Scuderia Toro Rosso Honda,01:04.7,01:04.7,,15
+Austria,14,3,Daniel Ricciardo,Renault,01:04.6,01:04.8,,12
+Austria,15,55,Carlos Sainz,McLaren Renault,01:04.5,01:13.6,,12
+Austria,16,11,Sergio Perez,Racing Point BWT Mercedes,01:04.8,,,8
+Austria,17,18,Lance Stroll,Racing Point BWT Mercedes,01:04.8,,,9
+Austria,18,26,Daniil Kvyat,Scuderia Toro Rosso Honda,01:05.3,,,8
+Austria,19,63,George Russell,Williams Mercedes,01:05.9,,,12
+Austria,20,88,Robert Kubica,Williams Mercedes,01:06.2,,,11
+Great Britain,1,77,Valtteri Bottas,Mercedes,01:25.8,01:25.7,01:25.1,21
+Great Britain,2,44,Lewis Hamilton,Mercedes,01:25.5,01:25.8,01:25.1,17
+Great Britain,3,16,Charles Leclerc,Ferrari,01:25.5,01:25.5,01:25.2,18
+Great Britain,4,33,Max Verstappen,Red Bull Racing Honda,01:25.7,01:25.8,01:25.3,21
+Great Britain,5,10,Pierre Gasly,Red Bull Racing Honda,01:26.3,01:26.0,01:25.6,21
+Great Britain,6,5,Sebastian Vettel,Ferrari,01:25.9,01:26.0,01:25.8,19
+Great Britain,7,3,Daniel Ricciardo,Renault,01:26.4,01:26.3,01:26.2,21
+Great Britain,8,4,Lando Norris,McLaren Renault,01:26.1,01:26.4,01:26.2,21
+Great Britain,9,23,Alexander Albon,Scuderia Toro Rosso Honda,01:26.5,01:26.4,01:26.3,24
+Great Britain,10,27,Nico Hulkenberg,Renault,01:26.6,01:26.4,01:26.4,21
+Great Britain,11,99,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,01:26.4,01:26.5,,18
+Great Britain,12,7,Kimi R格kk嗜en,Alfa Romeo Racing Ferrari,01:26.6,01:26.5,,18
+Great Britain,13,55,Carlos Sainz,McLaren Renault,01:26.2,01:26.6,,15
+Great Britain,14,8,Romain Grosjean,Haas Ferrari,01:26.3,01:26.8,,17
+Great Britain,15,11,Sergio Perez,Racing Point BWT Mercedes,01:26.6,01:26.9,,14
+Great Britain,16,20,Kevin Magnussen,Haas Ferrari,01:26.7,,,9
+Great Britain,17,26,Daniil Kvyat,Scuderia Toro Rosso Honda,01:26.7,,,10
+Great Britain,18,18,Lance Stroll,Racing Point BWT Mercedes,01:26.8,,,9
+Great Britain,19,63,George Russell,Williams Mercedes,01:27.8,,,9
+Great Britain,20,88,Robert Kubica,Williams Mercedes,01:28.3,,,10
+Germany,1,44,Lewis Hamilton,Mercedes,01:12.9,01:12.1,01:11.8,19
+Germany,2,33,Max Verstappen,Red Bull Racing Honda,01:12.6,01:12.4,01:12.1,17
+Germany,3,77,Valtteri Bottas,Mercedes,01:13.1,01:12.4,01:12.1,19
+Germany,4,10,Pierre Gasly,Red Bull Racing Honda,01:13.0,01:12.4,01:12.5,15
+Germany,5,7,Kimi R格kk嗜en,Alfa Romeo Racing Ferrari,01:13.1,01:12.5,01:12.5,18
+Germany,6,8,Romain Grosjean,Haas Ferrari,01:13.1,01:12.8,01:12.9,20
+Germany,7,55,Carlos Sainz,McLaren Renault,01:13.2,01:12.6,01:12.9,21
+Germany,8,11,Sergio Perez,Racing Point BWT Mercedes,01:13.2,01:12.8,01:13.1,15
+Germany,9,27,Nico Hulkenberg,Renault,01:13.2,01:12.8,01:13.1,15
+Germany,10,16,Charles Leclerc,Ferrari,01:12.2,01:12.3,,9
+Germany,11,99,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,01:13.2,01:12.8,,15
+Germany,12,20,Kevin Magnussen,Haas Ferrari,01:13.1,01:12.8,,11
+Germany,13,3,Daniel Ricciardo,Renault,01:13.1,01:12.8,,12
+Germany,14,26,Daniil Kvyat,Scuderia Toro Rosso Honda,01:13.3,01:13.1,,15
+Germany,15,18,Lance Stroll,Racing Point BWT Mercedes,01:13.3,01:13.5,,15
+Germany,16,4,Lando Norris,McLaren Renault,01:13.3,,,9
+Germany,17,23,Alexander Albon,Scuderia Toro Rosso Honda,01:13.5,,,9
+Germany,18,63,George Russell,Williams Mercedes,01:14.7,,,11
+Germany,19,88,Robert Kubica,Williams Mercedes,01:14.8,,,11
+Germany,NC,5,Sebastian Vettel,Ferrari,DNS,,,1
+Hungary,1,33,Max Verstappen,Red Bull Racing Honda,01:15.8,01:15.6,01:14.6,16
+Hungary,2,77,Valtteri Bottas,Mercedes,01:16.1,01:15.7,01:14.6,19
+Hungary,3,44,Lewis Hamilton,Mercedes,01:16.1,01:15.5,01:14.8,22
+Hungary,4,16,Charles Leclerc,Ferrari,01:16.3,01:15.8,01:15.0,17
+Hungary,5,5,Sebastian Vettel,Ferrari,01:16.5,01:15.9,01:15.1,18
+Hungary,6,10,Pierre Gasly,Red Bull Racing Honda,01:16.7,01:16.4,01:15.5,19
+Hungary,7,4,Lando Norris,McLaren Renault,01:16.7,01:16.1,01:15.8,18
+Hungary,8,55,Carlos Sainz,McLaren Renault,01:16.5,01:16.3,01:15.9,20
+Hungary,9,8,Romain Grosjean,Haas Ferrari,01:17.0,01:16.3,01:16.0,21
+Hungary,10,7,Kimi R格kk嗜en,Alfa Romeo Racing Ferrari,01:16.5,01:16.5,01:16.0,20
+Hungary,11,27,Nico Hulkenberg,Renault,01:16.8,01:16.6,,12
+Hungary,12,23,Alexander Albon,Scuderia Toro Rosso Honda,01:16.9,01:16.7,,14
+Hungary,13,26,Daniil Kvyat,Scuderia Toro Rosso Honda,01:16.7,01:16.7,,14
+Hungary,14,99,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,01:16.9,01:16.8,,14
+Hungary,15,20,Kevin Magnussen,Haas Ferrari,01:16.1,01:17.1,,13
+Hungary,16,63,George Russell,Williams Mercedes,01:17.0,,,9
+Hungary,17,11,Sergio Perez,Racing Point BWT Mercedes,01:17.1,,,6
+Hungary,18,3,Daniel Ricciardo,Renault,01:17.3,,,6
+Hungary,19,18,Lance Stroll,Racing Point BWT Mercedes,01:17.5,,,9
+Hungary,20,88,Robert Kubica,Williams Mercedes,01:18.3,,,9
+Belgium,1,16,Charles Leclerc,Ferrari,01:43.6,01:42.9,01:42.5,17
+Belgium,2,5,Sebastian Vettel,Ferrari,01:44.1,01:43.0,01:43.3,17
+Belgium,3,44,Lewis Hamilton,Mercedes,01:45.3,01:43.6,01:43.3,19
+Belgium,4,77,Valtteri Bottas,Mercedes,01:45.1,01:44.0,01:43.4,19
+Belgium,5,33,Max Verstappen,Red Bull Racing Honda,01:44.6,01:44.1,01:43.7,16
+Belgium,6,3,Daniel Ricciardo,Renault,01:45.6,01:44.1,01:44.3,17
+Belgium,7,27,Nico Hulkenberg,Renault,01:45.9,01:44.5,01:44.5,16
+Belgium,8,7,Kimi R格kk嗜en,Alfa Romeo Racing Ferrari,01:45.8,01:44.1,01:44.6,18
+Belgium,9,11,Sergio Perez,Racing Point BWT Mercedes,01:45.7,01:44.7,01:44.7,18
+Belgium,10,20,Kevin Magnussen,Haas Ferrari,01:45.8,01:44.7,01:45.1,18
+Belgium,11,8,Romain Grosjean,Haas Ferrari,01:45.7,01:44.8,,12
+Belgium,12,4,Lando Norris,McLaren Renault,01:46.2,01:44.8,,12
+Belgium,13,18,Lance Stroll,Racing Point BWT Mercedes,01:46.0,01:45.0,,8
+Belgium,14,23,Alexander Albon,Red Bull Racing Honda,01:45.5,01:45.8,,8
+Belgium,15,99,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,01:45.6,,,7
+Belgium,16,10,Pierre Gasly,Scuderia Toro Rosso Honda,01:46.4,,,5
+Belgium,17,55,Carlos Sainz,McLaren Renault,01:46.5,,,6
+Belgium,18,26,Daniil Kvyat,Scuderia Toro Rosso Honda,01:46.5,,,4
+Belgium,19,63,George Russell,Williams Mercedes,01:47.5,,,6
+Belgium,NC,88,Robert Kubica,Williams Mercedes,DNF,,,2
+Italy,1,16,Charles Leclerc,Ferrari,01:20.1,01:19.6,01:19.3,18
+Italy,2,44,Lewis Hamilton,Mercedes,01:20.3,01:19.5,01:19.3,16
+Italy,3,77,Valtteri Bottas,Mercedes,01:20.2,01:20.0,01:19.4,17
+Italy,4,5,Sebastian Vettel,Ferrari,01:20.4,01:19.7,01:19.5,17
+Italy,5,3,Daniel Ricciardo,Renault,01:20.4,01:19.8,01:19.8,13
+Italy,6,27,Nico Hulkenberg,Renault,01:20.2,01:20.3,01:20.0,14
+Italy,7,55,Carlos Sainz,McLaren Renault,01:20.4,01:20.2,01:20.5,20
+Italy,8,23,Alexander Albon,Red Bull Racing Honda,01:20.4,01:20.0,DNF,15
+Italy,9,18,Lance Stroll,Racing Point BWT Mercedes,01:20.6,01:20.5,DNF,19
+Italy,10,7,Kimi R格kk嗜en,Alfa Romeo Racing Ferrari,01:20.6,01:20.5,DNF,16
+Italy,11,99,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,01:20.7,01:20.5,,15
+Italy,12,20,Kevin Magnussen,Haas Ferrari,01:20.6,01:20.6,,14
+Italy,13,26,Daniil Kvyat,Scuderia Toro Rosso Honda,01:20.7,01:20.6,,17
+Italy,14,4,Lando Norris,McLaren Renault,01:20.6,01:21.1,,15
+Italy,15,10,Pierre Gasly,Scuderia Toro Rosso Honda,01:20.5,01:21.1,,15
+Italy,16,8,Romain Grosjean,Haas Ferrari,01:20.8,,,8
+Italy,17,11,Sergio Perez,Racing Point BWT Mercedes,01:21.3,,,6
+Italy,18,63,George Russell,Williams Mercedes,01:21.8,,,8
+Italy,19,88,Robert Kubica,Williams Mercedes,01:22.4,,,9
+Italy,NC,33,Max Verstappen,Red Bull Racing Honda,DNF,,,3
+Singapore,1,16,Charles Leclerc,Ferrari,01:38.0,01:36.7,01:36.2,18
+Singapore,2,44,Lewis Hamilton,Mercedes,01:37.6,01:36.9,01:36.4,19
+Singapore,3,5,Sebastian Vettel,Ferrari,01:38.4,01:36.7,01:36.4,16
+Singapore,4,33,Max Verstappen,Red Bull Racing Honda,01:38.5,01:37.1,01:36.8,15
+Singapore,5,77,Valtteri Bottas,Mercedes,01:37.3,01:37.1,01:37.1,18
+Singapore,6,23,Alexander Albon,Red Bull Racing Honda,01:39.1,01:37.9,01:37.4,16
+Singapore,7,55,Carlos Sainz,McLaren Renault,01:38.9,01:38.0,01:37.8,19
+Singapore,NC,3,Daniel Ricciardo,Renault,01:39.4,01:38.4,01:38.1,18
+Singapore,8,27,Nico Hulkenberg,Renault,01:39.0,01:38.6,01:38.3,18
+Singapore,9,4,Lando Norris,McLaren Renault,01:38.6,01:37.6,01:38.3,19
+Singapore,10,11,Sergio Perez,Racing Point BWT Mercedes,01:39.9,01:38.6,,14
+Singapore,11,99,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,01:39.3,01:38.7,,14
+Singapore,12,10,Pierre Gasly,Scuderia Toro Rosso Honda,01:39.1,01:38.7,,12
+Singapore,13,7,Kimi R格kk嗜en,Alfa Romeo Racing Ferrari,01:39.5,01:38.9,,14
+Singapore,14,20,Kevin Magnussen,Haas Ferrari,01:39.9,01:39.6,,14
+Singapore,15,26,Daniil Kvyat,Scuderia Toro Rosso Honda,01:40.0,,,7
+Singapore,16,18,Lance Stroll,Racing Point BWT Mercedes,01:40.0,,,8
+Singapore,17,8,Romain Grosjean,Haas Ferrari,01:40.3,,,8
+Singapore,18,63,George Russell,Williams Mercedes,01:40.9,,,7
+Singapore,19,88,Robert Kubica,Williams Mercedes,01:41.2,,,6
+Russia,1,16,Charles Leclerc,Ferrari,01:33.6,01:32.4,01:31.6,18
+Russia,2,44,Lewis Hamilton,Mercedes,01:33.2,01:33.1,01:32.0,19
+Russia,3,5,Sebastian Vettel,Ferrari,01:33.0,01:32.5,01:32.1,22
+Russia,4,33,Max Verstappen,Red Bull Racing Honda,01:33.4,01:32.6,01:32.3,15
+Russia,5,77,Valtteri Bottas,Mercedes,01:33.4,01:33.3,01:32.6,18
+Russia,6,55,Carlos Sainz,McLaren Renault,01:34.2,01:33.8,01:33.2,20
+Russia,7,27,Nico Hulkenberg,Renault,01:34.2,01:33.9,01:33.3,15
+Russia,8,4,Lando Norris,McLaren Renault,01:34.2,01:33.7,01:33.3,20
+Russia,9,8,Romain Grosjean,Haas Ferrari,01:34.3,01:33.6,01:33.5,19
+Russia,10,3,Daniel Ricciardo,Renault,01:34.1,01:33.9,01:33.7,18
+Russia,11,10,Pierre Gasly,Scuderia Toro Rosso Honda,01:34.5,01:34.0,,13
+Russia,12,11,Sergio Perez,Racing Point BWT Mercedes,01:34.3,01:34.0,,14
+Russia,13,99,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,01:34.8,01:34.0,,14
+Russia,14,20,Kevin Magnussen,Haas Ferrari,01:33.9,01:34.1,,13
+Russia,15,18,Lance Stroll,Racing Point BWT Mercedes,01:34.3,01:34.2,,14
+Russia,16,7,Kimi R格kk嗜en,Alfa Romeo Racing Ferrari,01:34.8,,,8
+Russia,17,63,George Russell,Williams Mercedes,01:35.4,,,8
+Russia,18,88,Robert Kubica,Williams Mercedes,01:36.5,,,8
+Russia,19,23,Alexander Albon,Red Bull Racing Honda,01:39.2,,,4
+Russia,NC,26,Daniil Kvyat,Scuderia Toro Rosso Honda,,,,0
+Japan,1,5,Sebastian Vettel,Ferrari,01:29.0,01:28.2,01:27.1,16
+Japan,2,16,Charles Leclerc,Ferrari,01:28.4,01:28.2,01:27.3,16
+Japan,3,77,Valtteri Bottas,Mercedes,01:28.9,01:27.7,01:27.3,21
+Japan,4,44,Lewis Hamilton,Mercedes,01:28.7,01:27.8,01:27.3,20
+Japan,5,33,Max Verstappen,Red Bull Racing Honda,01:28.8,01:28.5,01:27.9,16
+Japan,6,23,Alexander Albon,Red Bull Racing Honda,01:29.4,01:28.2,01:27.9,19
+Japan,7,55,Carlos Sainz,McLaren Renault,01:29.0,01:28.6,01:28.3,21
+Japan,8,4,Lando Norris,McLaren Renault,01:28.9,01:28.6,01:28.5,21
+Japan,9,10,Pierre Gasly,Scuderia Toro Rosso Honda,01:29.4,01:28.8,01:28.8,21
+Japan,10,8,Romain Grosjean,Haas Ferrari,01:29.6,01:29.1,01:29.3,15
+Japan,11,99,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,01:29.6,01:29.3,,15
+Japan,12,18,Lance Stroll,Racing Point BWT Mercedes,01:29.6,01:29.3,,12
+Japan,13,7,Kimi R格kk嗜en,Alfa Romeo Racing Ferrari,01:29.6,01:29.4,,15
+Japan,14,26,Daniil Kvyat,Scuderia Toro Rosso Honda,01:29.7,01:29.6,,16
+Japan,15,27,Nico Hulkenberg,Renault,01:29.6,01:30.1,,13
+Japan,16,3,Daniel Ricciardo,Renault,01:29.8,,,8
+Japan,17,11,Sergio Perez,Racing Point BWT Mercedes,01:30.3,,,9
+Japan,18,63,George Russell,Williams Mercedes,01:30.4,,,10
+Japan,NC,20,Kevin Magnussen,Haas Ferrari,DNF,,,2
+Japan,NC,88,Robert Kubica,Williams Mercedes,DNS,,,1
+Mexico,1,33,Max Verstappen,Red Bull Racing Honda,01:15.9,01:16.1,01:14.8,16
+Mexico,2,16,Charles Leclerc,Ferrari,01:16.4,01:16.2,01:15.0,18
+Mexico,3,5,Sebastian Vettel,Ferrari,01:16.7,01:15.9,01:15.2,18
+Mexico,4,44,Lewis Hamilton,Mercedes,01:16.4,01:15.7,01:15.3,20
+Mexico,5,23,Alexander Albon,Red Bull Racing Honda,01:16.2,01:16.6,01:15.3,18
+Mexico,6,77,Valtteri Bottas,Mercedes,01:17.1,01:15.9,01:15.3,18
+Mexico,7,55,Carlos Sainz,McLaren Renault,01:17.0,01:16.3,01:16.0,19
+Mexico,8,4,Lando Norris,McLaren Renault,01:17.1,01:16.4,01:16.3,20
+Mexico,9,26,Daniil Kvyat,Scuderia Toro Rosso Honda,01:17.0,01:16.7,01:16.5,22
+Mexico,10,10,Pierre Gasly,Scuderia Toro Rosso Honda,01:17.1,01:16.7,01:16.6,22
+Mexico,11,11,Sergio Perez,Racing Point BWT Mercedes,01:17.5,01:16.7,,14
+Mexico,12,27,Nico Hulkenberg,Renault,01:17.6,01:16.9,,14
+Mexico,13,3,Daniel Ricciardo,Renault,01:17.3,01:16.9,,14
+Mexico,14,7,Kimi R格kk嗜en,Alfa Romeo Racing Ferrari,01:17.2,01:17.0,,14
+Mexico,15,99,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,01:17.8,01:17.3,,14
+Mexico,16,18,Lance Stroll,Racing Point BWT Mercedes,01:18.1,,,8
+Mexico,17,20,Kevin Magnussen,Haas Ferrari,01:18.4,,,9
+Mexico,18,8,Romain Grosjean,Haas Ferrari,01:18.6,,,9
+Mexico,19,63,George Russell,Williams Mercedes,01:18.8,,,10
+Mexico,20,88,Robert Kubica,Williams Mercedes,01:20.2,,,9
+United States,1,77,Valtteri Bottas,Mercedes,01:33.7,01:33.2,01:32.0,18
+United States,2,5,Sebastian Vettel,Ferrari,01:33.8,01:32.8,01:32.0,17
+United States,3,33,Max Verstappen,Red Bull Racing Honda,01:33.5,01:33.1,01:32.1,16
+United States,4,16,Charles Leclerc,Ferrari,01:34.0,01:32.8,01:32.1,19
+United States,5,44,Lewis Hamilton,Mercedes,01:33.5,01:33.0,01:32.3,17
+United States,6,23,Alexander Albon,Red Bull Racing Honda,01:34.0,01:32.9,01:32.5,14
+United States,7,55,Carlos Sainz,McLaren Renault,01:33.9,01:33.4,01:32.8,15
+United States,8,4,Lando Norris,McLaren Renault,01:33.4,01:33.3,01:33.2,18
+United States,9,3,Daniel Ricciardo,Renault,01:33.8,01:33.6,01:33.5,15
+United States,10,10,Pierre Gasly,Scuderia Toro Rosso Honda,01:33.6,01:33.7,01:33.6,19
+United States,11,27,Nico Hulkenberg,Renault,01:34.1,01:33.8,,12
+United States,12,20,Kevin Magnussen,Haas Ferrari,01:33.8,01:34.0,,12
+United States,13,26,Daniil Kvyat,Scuderia Toro Rosso Honda,01:34.1,01:34.0,,14
+United States,14,18,Lance Stroll,Racing Point BWT Mercedes,01:33.9,01:34.1,,14
+United States,15,8,Romain Grosjean,Haas Ferrari,01:34.2,01:34.2,,14
+United States,16,99,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,01:34.2,,,8
+United States,17,7,Kimi R格kk嗜en,Alfa Romeo Racing Ferrari,01:34.4,,,8
+United States,18,63,George Russell,Williams Mercedes,01:35.4,,,9
+United States,19,11,Sergio Perez,Racing Point BWT Mercedes,01:35.8,,,5
+United States,20,88,Robert Kubica,Williams Mercedes,01:35.9,,,9
+Brazil,1,33,Max Verstappen,Red Bull Racing Honda,01:08.2,01:07.5,01:07.5,12
+Brazil,2,5,Sebastian Vettel,Ferrari,01:08.6,01:08.1,01:07.6,15
+Brazil,3,44,Lewis Hamilton,Mercedes,01:08.6,01:08.1,01:07.7,16
+Brazil,4,16,Charles Leclerc,Ferrari,01:08.5,01:07.9,01:07.7,20
+Brazil,5,77,Valtteri Bottas,Mercedes,01:08.5,01:08.2,01:07.9,17
+Brazil,6,23,Alexander Albon,Red Bull Racing Honda,01:08.5,01:08.1,01:07.9,14
+Brazil,7,10,Pierre Gasly,Scuderia Toro Rosso Honda,01:08.9,01:08.8,01:08.8,22
+Brazil,8,8,Romain Grosjean,Haas Ferrari,01:09.2,01:08.7,01:08.9,16
+Brazil,9,7,Kimi R格kk嗜en,Alfa Romeo Racing Ferrari,01:09.3,01:08.9,01:09.0,20
+Brazil,10,20,Kevin Magnussen,Haas Ferrari,01:08.9,01:08.8,01:09.0,15
+Brazil,11,4,Lando Norris,McLaren Renault,01:08.9,01:08.9,,13
+Brazil,12,3,Daniel Ricciardo,Renault,01:09.1,01:08.9,,12
+Brazil,13,99,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,01:09.2,01:08.9,,14
+Brazil,14,27,Nico Hulkenberg,Renault,01:09.1,01:08.9,,12
+Brazil,15,11,Sergio Perez,Racing Point BWT Mercedes,01:09.3,01:09.0,,14
+Brazil,16,26,Daniil Kvyat,Scuderia Toro Rosso Honda,01:09.3,,,10
+Brazil,17,18,Lance Stroll,Racing Point BWT Mercedes,01:09.5,,,9
+Brazil,18,63,George Russell,Williams Mercedes,01:10.1,,,9
+Brazil,19,88,Robert Kubica,Williams Mercedes,01:10.6,,,9
+Brazil,NC,55,Carlos Sainz,McLaren Renault,DNF,,,2
+Abu Dhabi,1,44,Lewis Hamilton,Mercedes,01:35.9,01:35.6,01:34.8,19
+Abu Dhabi,2,77,Valtteri Bottas,Mercedes,01:36.2,01:35.7,01:35.0,16
+Abu Dhabi,3,33,Max Verstappen,Red Bull Racing Honda,01:36.4,01:36.3,01:35.1,16
+Abu Dhabi,4,16,Charles Leclerc,Ferrari,01:36.5,01:35.5,01:35.2,16
+Abu Dhabi,5,5,Sebastian Vettel,Ferrari,01:37.0,01:35.8,01:35.3,16
+Abu Dhabi,6,23,Alexander Albon,Red Bull Racing Honda,01:36.1,01:36.7,01:35.7,21
+Abu Dhabi,7,4,Lando Norris,McLaren Renault,01:37.5,01:36.8,01:36.4,17
+Abu Dhabi,8,3,Daniel Ricciardo,Renault,01:37.1,01:36.8,01:36.5,15
+Abu Dhabi,9,55,Carlos Sainz,McLaren Renault,01:37.4,01:36.3,01:36.5,17
+Abu Dhabi,10,27,Nico Hulkenberg,Renault,01:37.5,01:36.9,01:36.7,18
+Abu Dhabi,11,11,Sergio Perez,Racing Point BWT Mercedes,01:37.0,01:37.1,,13
+Abu Dhabi,12,10,Pierre Gasly,Scuderia Toro Rosso Honda,01:37.2,01:37.1,,12
+Abu Dhabi,13,18,Lance Stroll,Racing Point BWT Mercedes,01:37.5,01:37.1,,14
+Abu Dhabi,14,26,Daniil Kvyat,Scuderia Toro Rosso Honda,01:37.7,01:37.1,,12
+Abu Dhabi,15,20,Kevin Magnussen,Haas Ferrari,01:37.7,01:37.3,,14
+Abu Dhabi,16,8,Romain Grosjean,Haas Ferrari,01:38.1,,,8
+Abu Dhabi,17,99,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,01:38.1,,,6
+Abu Dhabi,18,7,Kimi R格kk嗜en,Alfa Romeo Racing Ferrari,01:38.4,,,6
+Abu Dhabi,19,63,George Russell,Williams Mercedes,01:38.7,,,8
+Abu Dhabi,20,88,Robert Kubica,Williams Mercedes,01:39.2,,,6
